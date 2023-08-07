@@ -1,8 +1,8 @@
 const http = require("http")
-const dt = require('./myModule')
+const date = require('./myModule')
 
 const myFunction = (req, res) => {
-    const dateTime = dt()
+    const dateTime = date()
     
     res.end(`${dateTime}`)
 }
