@@ -13,3 +13,5 @@
  
 6. currency-convert done using currency-converter-lt node js 
 
+7. pdfkit is made using npmjs package pdfkit - Document and Text and Images are added
+
