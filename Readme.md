@@ -6,3 +6,10 @@
 3. create function that converts mr pukar gautam to Mr Pukar Gautam Proper Case
 
 4. Use lodash to trim the white space "   kkk   "
+
+<!-- New Featured or task updated -->
+
+5. QR Code generate using qrcode npmjs package
+ 
+6. currency-convert done using currency-converter-lt node js 
+
