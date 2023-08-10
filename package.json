@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "currency-converter-lt": "^2.0.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.4",
     "qrcode": "^1.5.3",

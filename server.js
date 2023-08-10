@@ -1,6 +1,7 @@
 const http = require('http');
 const qrcode = require('qrcode');
 
+
 const PORT = 3000;
 
 const generateQRCode = async (text) => {
@@ -13,7 +14,10 @@ const generateQRCode = async (text) => {
     }
 };
 
+
+
 const server = http.createServer(async (req, res) => {
+    
     if (req.url === '/') {
         const qrCodeData = await generateQRCode('github.com/ColdDionysus');
         
